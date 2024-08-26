@@ -6,7 +6,7 @@
   - [osTicket: Installation and Configuration](https://github.com/adrianbolt1/osticket)
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/adrianbolt1/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/adrianbolt1/active-directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/adrianbolt1/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
