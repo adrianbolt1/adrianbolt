@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>ZenDesk (Help Desk Ticketing System)</b>
+- <b>ZenDesk </b>
   - [osTicket: Installation and Configuration](https://github.com/adrianbolt1/osticket)
 
-- <b>Spiceworks (Help Desk Ticketing System)</b>
+- <b>Spiceworks </b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/adrianbolt1/active-directory)
 
 - <b> Active Directory</b>
