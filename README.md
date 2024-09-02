@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>ZenDesk </b>
+- <b>Zendesk </b>
   - [osTicket: Installation and Configuration](https://github.com/adrianbolt1/osticket)
 
 - <b>Spiceworks </b>
