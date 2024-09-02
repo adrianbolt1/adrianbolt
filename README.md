@@ -9,7 +9,7 @@
   - [Spiceworks Ticket Handling](https://github.com/adrianbolt1/Spiceworks)
 
 - <b> Active Directory</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/adrianbolt1/active-directory)
+  - [Configure Active Directory In Hyper-V](https://github.com/adrianbolt1/Activedirectory)
 
  
 <h2>🤳Connect with me:</h2>
