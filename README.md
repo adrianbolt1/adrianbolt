@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Zendesk </b>
-  - [osTicket: Installation and Configuration](https://github.com/adrianbolt1/osticket)
+  - [Zendesk Ticket Solution](https://github.com/adrianbolt1/Zendesk)
 
 - <b>Spiceworks </b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/adrianbolt1/active-directory)
