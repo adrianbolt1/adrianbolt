@@ -5,7 +5,7 @@
 - <b>ZenDesk (Help Desk Ticketing System)</b>
   - [osTicket: Installation and Configuration](https://github.com/adrianbolt1/osticket)
 
-- <b>Microsoft Azure</b>
+- <b>Spiceworks (Help Desk Ticketing System)</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/adrianbolt1/active-directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/adrianbolt1/azure-networking)
 
