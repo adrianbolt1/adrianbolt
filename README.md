@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>ZenDesk (Help Desk Ticketing System)</b>
   - [osTicket: Installation and Configuration](https://github.com/adrianbolt1/osticket)
 
 - <b>Microsoft Azure</b>
