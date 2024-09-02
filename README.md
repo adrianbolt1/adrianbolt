@@ -6,7 +6,7 @@
   - [Zendesk Ticket Solution](https://github.com/adrianbolt1/Zendesk)
 
 - <b>Spiceworks </b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/adrianbolt1/active-directory)
+  - [Spiceworks Ticket Handling](https://github.com/adrianbolt1/Spiceworks)
 
 - <b> Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/adrianbolt1/active-directory)
